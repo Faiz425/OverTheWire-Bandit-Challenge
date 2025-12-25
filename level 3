@@ -1,0 +1,16 @@
+Objective
+
+Locate and read a hidden file inside a directory.
+
+Steps
+
+Navigate into the target directory
+
+Display hidden files
+
+Read the hidden file
+
+Commands Used
+cd inhere
+ls -a
+cat hiding from you

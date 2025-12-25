@@ -1,0 +1,12 @@
+Level 7 → Level 8
+Objective
+
+Find a specific string inside a large text file.
+
+Steps
+
+Search the file using a keyword
+
+Commands Used
+grep "millionth" data.txt
+Password dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc

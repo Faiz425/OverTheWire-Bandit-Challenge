@@ -1,1 +1,14 @@
+Level 14 → Level 15
+Objective
 
+Send data to a service listening on a specific port.
+
+Steps
+
+Read the current password
+
+Send it to the service using netcat
+
+Commands Used
+echo "$(cat /etc/bandit_pass/bandit14)" | nc localhost 30000
+Password MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS

@@ -1,0 +1,17 @@
+Level 6 → Level 7
+Objective
+
+Locate a file anywhere on the system using ownership and size criteria.
+
+Steps
+
+Search from the root directory
+
+Filter by user, group, and file size
+
+Suppress permission errors
+
+Commands Used
+find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null
+cat /var/lib/dpkg/info/bandit7.password
+Password morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj

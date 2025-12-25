@@ -1,1 +1,16 @@
+Level 0 → Level 1
+Objective
 
+Connect to the Bandit server using SSH and read a file to obtain the password.
+
+Steps
+
+Establish an SSH connection to the Bandit server
+
+Read the contents of the readme file
+
+Commands Used
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+cat readme
+
+Password ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If

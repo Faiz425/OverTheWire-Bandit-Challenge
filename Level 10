@@ -1,0 +1,12 @@
+Level 10 → Level 11
+Objective
+
+Decode Base64-encoded data.
+
+Steps
+
+Decode the contents of the file
+
+Commands Used
+base64 -d data.txt
+Password dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr

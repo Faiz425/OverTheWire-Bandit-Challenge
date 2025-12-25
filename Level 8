@@ -1,0 +1,14 @@
+Level 8 → Level 9
+Objective
+
+Identify the only unique line in a file.
+
+Steps
+
+Sort the file
+
+Display the unique entry
+
+Commands Used
+sort data.txt | uniq -c
+Password 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM

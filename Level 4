@@ -1,0 +1,14 @@
+Objective
+
+Identify which file contains human-readable text.
+
+Steps
+
+Check the file type of each file
+
+Read the readable file
+
+Commands Used
+cd inhere
+file ./*
+cat ./-file07

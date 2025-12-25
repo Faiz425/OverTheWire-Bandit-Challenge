@@ -1,0 +1,11 @@
+Level 11 → Level 12
+Objective
+
+Decode text encrypted using ROT13.
+
+Steps
+
+Translate characters back to their original values
+
+Commands Used
+cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'

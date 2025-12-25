@@ -1,1 +1,15 @@
+Level 2 → Level 3
+Objective
 
+Read a file that contains spaces in its filename.
+
+Steps
+
+List directory contents
+
+Use quotation marks to handle spaces correctly
+
+Commands Used
+ls
+cat "--spaces in this filename--"
+Password MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx

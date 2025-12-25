@@ -1,0 +1,14 @@
+Level 9 → Level 10
+Objective
+
+Extract readable strings from a binary file.
+
+Steps
+
+Extract printable strings
+
+Filter useful output
+
+Commands Used
+strings data.txt | grep "="
+Password FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
